@@ -1,10 +1,11 @@
 package main
 import(
 	"fmt"
-	"github.com/AJ-Brown-InTech/go-server/server/Goserver"
+	"githhub.com/AJ-Brown-InTech/go-server/server"
+
 )
 func main(){
-
+	goserver.Goserver()
 	fmt.Println("test")
 
 }

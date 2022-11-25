@@ -1,4 +1,4 @@
-package Goserver
+package goserver
 
 import (
 	//"net/http"

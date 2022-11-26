@@ -1,5 +1,0 @@
-2022/11/25 20:49:36 goserver.go:76: INFO: [HTTP] Server running
-2022/11/25 20:52:57 goserver.go:69: WARNING: Develpment enviroment
-2022/11/25 20:52:57 goserver.go:78: INFO: [HTTP] Server running
-2022/11/25 20:53:41 goserver.go:69: WARNING: Develpment enviroment
-2022/11/25 20:53:41 goserver.go:79: INFO: [HTTP] Server running

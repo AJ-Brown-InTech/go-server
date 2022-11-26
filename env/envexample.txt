@@ -1,4 +1,3 @@
-Create an .env file in the same dir copy & paste below
+Create an .env file in the parent dir copy & paste below
 for a outline of the env file.
 PORT: port number
-HOST: host url
